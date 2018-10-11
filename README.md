@@ -13,3 +13,4 @@ Os tópicos a seguir disponibilizam conteúdos relacionados às funcionalidades 
   * [KB-5435](KB5435/README.md)
   * [Python for newbies](Py4Newbies/README.md)
   * [Articles](Articles/README.md)
+  * [Dataset Analysis module example](MyLibs\README.md)
