@@ -1,6 +1,6 @@
 # EPM Studio - Dataset Analysis - Módulos Python 
 
-O conteúdo deste exemplo está relacionado às funcionalidades da ferramenta integrada à linguagem Python (versão 3.6) do ambiente *Dataset Analysis* do **EPM Studio**.
+O conteúdo deste exemplo está relacionado às funcionalidades da ferramenta integrada à linguagem Python (versão 2.7) do ambiente *Dataset Analysis* do **EPM Studio**.
 
  ## Utilização
 
@@ -11,7 +11,7 @@ O conteúdo deste exemplo está relacionado às funcionalidades da ferramenta in
 
 > :bulb:
 >
-> * É necessário que já se tenha uma versão do **Python 3.6** instalada, bem como os módulos utilizados no exemplo (**recomendação**: utilizar o [Anaconda](https://anaconda.org) que já instala as principais ferramentas e módulos utilizados em análises de dados). Neste caso, foi utilizado o **Python 3.6** e as seguintes versões dos módulos:
+> * É necessário que já se tenha uma versão do **Python 2.7** instalada, bem como os módulos utilizados no exemplo (**recomendação**: utilizar o [Anaconda](https://anaconda.org) que já instala as principais ferramentas e módulos utilizados em análises de dados). Neste caso, foi utilizado o **Python 2.7.15** e as seguintes versões dos módulos:
 >
 >    * matplotlib==2.2.2
 >    * numpy==1.14.2

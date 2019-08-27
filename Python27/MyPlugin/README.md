@@ -1,6 +1,6 @@
 ﻿# Elipse Plant Manager - EPM Dataset Analysis Python Plugins
 
- Exemplo de um plugin em linguagem Python (v.3.6) para uso no ambiente *Dataset Analysis* do **EPM Studio** - ferramenta do sistema **EPM v.3**.
+ Exemplo de um plugin em linguagem Python (v.2.7) para uso no ambiente *Dataset Analysis* do **EPM Studio** - ferramenta do sistema **EPM v.3**.
 
 ## INSTALAÇÃO
 

@@ -5,7 +5,7 @@ O **EPM Studio** é uma ferramenta que integra diversas funcionalidades de visua
 Com um visual moderno e funcionalidades intuitivas, reduz a curva de aprendizado já trazendo resultados efetivos em curto prazo.
 Um dos seus grandes diferenciais é o ambiente integrado de análise com suporte à execução de scripts em linguagem Python, viabilizando o trabalho com grandes volumes de dados em um único ambiente, tendo impacto positivo direto sobre a redução dos tempos usualmente despendidos em análises.
 
-Os tópicos a seguir disponibilizam conteúdos relacionados às funcionalidades desta ferramenta integrada à linguagem Python (versão 2.7).
+Os tópicos a seguir disponibilizam conteúdos relacionados às funcionalidades desta ferramenta integrada à linguagem Python (versão 3.6).
 
 * Documentação
 

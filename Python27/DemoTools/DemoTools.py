@@ -70,7 +70,7 @@ def deltasData():
         return None
     penName = ep.EpmDatasetPens.SelectedPens[0].Name + '_Delta'
     epmData = ep.EpmDatasetPens.SelectedPens[0].Values
-    deltaCurves = epmData.copy()
+    deltaCurves = epmData.copy();
     v = epmData['Value']
     delta = v[1:] - v[:-1]
     deltaValues = deltaCurves['Value']
@@ -89,7 +89,7 @@ def removeMean():
         return None
     penName = ep.EpmDatasetPens.SelectedPens[0].Name + '_ZeroMean'
     epmData = ep.EpmDatasetPens.SelectedPens[0].Values
-    rmMean = epmData.copy()
+    rmMean = epmData.copy();
     v = epmData['Value']
     rmMean['Value'] = v - v.mean()
     ep.plotValues(penName, rmMean)
@@ -105,7 +105,7 @@ def normalizeData():
         return None
     penName = ep.EpmDatasetPens.SelectedPens[0].Name + '_Normalized'
     epmData = ep.EpmDatasetPens.SelectedPens[0].Values
-    normCurves = epmData.copy()
+    normCurves = epmData.copy();
     v = epmData['Value']
     normCurves['Value'] = (v - v.mean()) / v.std()
     ep.plotValues(penName, normCurves)
