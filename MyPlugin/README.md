@@ -4,7 +4,7 @@
 
 ## INSTALAÇÃO
 
-Para usar este plugin, basta colocar os arquivos: *MyPlugin.py* e *genius.png* dentro do diretório: *C:\Users\ ... \My Documents\ ... \Elipse Software\EPM Studio\Plugins\DemoTools*
+Para usar este plugin, basta criar um diretório com o nome "MyPlugin" colocar os arquivos: *MyPlugin.py* e *genius.png* dentro do diretório: *C:\Users\ ... \My Documents\ ... \Elipse Software\EPM Studio\Plugins\MyPlugin*
 
 Depois é só abrir um **Dataset** no **EPM Studio** e expandir a área de *scripts* em linguagem Python.
 Além de carregar os módulos (bibliotecas) configurados no arquivo de inicialização deste ambiente, todos os plugins em Python encontrados no diretório Plugins (mencionado anteriormente) serão carregados e apresentados na *ribbon* (faixa de opções) do ambiente *Dataset Analysis* do **EPM Studio**.
