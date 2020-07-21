@@ -3,7 +3,7 @@
 
 ## [Arquitetura IOT para aplicação em automação residencial](https://lume.ufrgs.br/handle/10183/205372)
 
-** Resumo **
+**Resumo**
 
 Em 2013 quase metade de todo o consumo energético no Brasil foi originário de edificações, o que evidencia a imporância de se desenvolver soluções mais eficientes energeticamente nestas áreas. O objetivo do presente trabalho é desenvolver uma arquitetura de baixo custo para um cenário de Automação Residencial trazido para o contexto da Internet das Coisas (IoT) que visa proporcionar, além de eficiência energética, o conforto térmico nos ambientes, fator este que tem grande impacto na produtividade das pessoas envolvidas. Para isto, na arquitetura desenvolvida foram monitorados os indicadores de temperatura, umidade e luminosidade de dois ambientes de uma residência através de duas placas equipadas com sensores. Fazendo-se uso do protocolo de comunicação MQTT e de um sistema PIMS, os dados lidos pelos sensores puderam ser constantemente armazenados e apresentados em um painel por meio da Internet para visualização do usuário. Concluiu-se, por fim, que a integração entre os componentes utilizados nesta arquitetura proporcionou um sistema eficaz de monitoramento de ambientes residenciais com uma grande capacidade de armazenamento, podendo ser utilizado como base para um projeto de sistema de Automação Residencial dedicado a garantir eficiência energética e conforto térmico. 
 
