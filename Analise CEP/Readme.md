@@ -4,7 +4,7 @@
 
 ## INSTALAÇÃO
 
-Para usar este plugin, basta colocar os arquivos: *Analise_CEP.py* e *0_pluginIcon.png* dentro do diretório: *C:\Users\ ... \My Documents\ ... \Elipse Software\EPM Studio\Plugins\Analise CEP*
+Para usar este plugin, basta colocar os arquivos: *Analise_CEP.py*, *header.png*, *histograma.png* e *0_pluginIcon.png* dentro do diretório: *C:\Users\ ... \My Documents\ ... \Elipse Software\EPM Studio\Plugins\Analise CEP*
 
 No Python utilizado, devem ser instaladas as bibliotecas utilizadas por este plugin, que são:
 - Numpy
