@@ -7,11 +7,11 @@
 Para usar este plugin, basta colocar os arquivos: *Analise_CEP.py*, *header.png*, *histograma.png* e *0_pluginIcon.png* dentro do diretório: *C:\Users\ ... \My Documents\ ... \Elipse Software\EPM Studio\Plugins\Analise CEP*
 
 No Python utilizado, devem ser instaladas as bibliotecas utilizadas por este plugin, que são:
-- Numpy
-- MatplotLib
-- ReportLab
-- Scipy
-- TKInter
+- [Numpy](https://numpy.org/)
+- [MatplotLib](https://matplotlib.org/)
+- [ReportLab](https://pypi.org/project/reportlab/)
+- [Scipy](https://scipy.org/)
+- [TKInter](https://docs.python.org/3/library/tkinter.html)
 
 Depois, é só abrir um **Dataset** no **EPM Studio** e expandir a área de *scripts* em linguagem Python.
 Além de carregar os módulos (bibliotecas) configurados no arquivo de inicialização deste ambiente, todos os plugins em Python encontrados no diretório Plugins (mencionado anteriormente) serão carregados e apresentados na *ribbon* (faixa de opções) do ambiente *Dataset Analysis* do **EPM Studio**.
